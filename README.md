@@ -1,2 +1,2 @@
-Hello-word
+* SSH
 My first repository on GitHub
